@@ -1,7 +1,7 @@
 ![узкий баннер](https://user-images.githubusercontent.com/105635627/170814193-24388e3e-bf4d-47af-993d-92aef83ac57f.png)
 
 Hi, I'm Markella's!
-I'm youtuber with 800+ subs. A large percentage of my subscribers and friends can code and create very interesting unusual projects! (Me too)
+I'm youtuber with 800+ subs. I like coding some useful (and not) things on Python! Also I love designing avatars, icons, banners, concepts etc.
 
 <div align="center">
   <a href="https://discord.gg/vGUptfduR9"><img alt="Discord" style="height: 26px" src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg" /></a>
