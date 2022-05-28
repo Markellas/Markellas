@@ -1,4 +1,4 @@
-![1_светлый ободок](https://user-images.githubusercontent.com/105635627/170814059-0083835a-5095-4367-b3e8-90abca1acc7a.png)
+![узкий баннер](https://user-images.githubusercontent.com/105635627/170814193-24388e3e-bf4d-47af-993d-92aef83ac57f.png)
 
 Hi, I'm Markella's!
 I'm youtuber with 800+ subs. A large percentage of my subscribers and friends can code and create very interesting unusual projects! (Me too)
