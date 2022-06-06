@@ -11,7 +11,3 @@ I'm youtuber with 800+ subs. I like coding some useful (and not) things on Pytho
   <a href="https://www.youtube.com/channel/UCHlPOsjs-8H5hDbeBY8LZIg"><img alt="YouTube" style="height: 26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/240px-YouTube_full-color_icon_(2017).svg.png" /></a>
 </div>
 
-
-
-[![stata.ofiget](https://github-readme-stats.vercel.app/api?username=markellas&show_icons=true&theme=dark)](https://www.youtube.com/watch?v=UFUtDdgEYwk)
-[![yaziki.ofiget](https://github-readme-stats.vercel.app/api/top-langs/?username=markellas&show_icons=true&theme=dark)]([https://owodev.ml/uwu](https://www.youtube.com/watch?v=UFUtDdgEYwk))
