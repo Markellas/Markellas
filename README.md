@@ -13,4 +13,4 @@ I'm youtuber with 800+ subs. I like coding some useful (and not) things on Pytho
 
 ### Now doing this stuff:
 
-Designing Lawnicons, Android 12 style icons for Lawnchair, the best launcher for Android, that has 1M+ downloads in Google Play. Now Lawnchair 12 is in development, but you can already enjoy this best launcher, just by downloading all that you need from GitHub!
+Working on new videos for Markella's on YT!
