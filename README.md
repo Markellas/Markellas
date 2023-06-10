@@ -1,4 +1,4 @@
-![узкий баннер](https://user-images.githubusercontent.com/105635627/224565083-bab4d554-9449-404e-8ae3-e1c7faf72ec3.png)
+
 
 Hi, I'm Markella's!
 I'm youtuber with 1.5K+ subs. I'm only a beginner in coding, but I'm learning some new things with years, so maybe someday you'll probably visit this page and see lots of big popular projects!
