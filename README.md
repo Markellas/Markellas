@@ -8,5 +8,5 @@ I also own a Telegram channel and some Discord servers.
 
 ## Achievements
 
-- Helped translating Vanilla OS GUI into belarusian language (for now - 100% of First Setup)
+- Helped translating [Vanilla OS](https://github.com/Vanilla-OS) GUI into belarusian language (for now - 100% of First Setup)
 
